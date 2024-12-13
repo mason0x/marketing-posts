@@ -1,0 +1,243 @@
+gather_business_intelligence_task:
+  description: >
+    Deliver a structured business analysis report for {project_description} in {customer_domain} with:
+    1. Revenue Analysis:
+       - List exactly 3 primary revenue streams
+       - Document pricing models
+       - Calculate customer lifetime value
+    2. Operational Assessment:
+       - Map core business processes (minimum 5)
+       - Identify efficiency metrics
+       - Document resource allocation
+    3. Market Position Analysis:
+       - Current market share (if available)
+       - Direct competitor comparison (top 3)
+       - Growth trajectory metrics
+  expected_output: >
+    A detailed report in the following format:
+    1. Executive Summary (200 words max)
+    2. Revenue Breakdown (with exact figures/percentages)
+    3. Operational Flowcharts
+    4. Market Position Matrix
+    5. Growth Metrics Dashboard
+
+map_audience_demographics_task:
+  description: >
+    Create a comprehensive audience analysis for {project_description} in {customer_domain} including:
+    1. Primary Personas (exactly 3):
+       - Demographic details (age, income, education, location)
+       - Behavioral patterns (minimum 5 per persona)
+       - Purchase triggers (exactly 3 per persona)
+    2. Journey Mapping:
+       - Awareness stage touchpoints (3)
+       - Consideration stage touchpoints (3)
+       - Decision stage touchpoints (3)
+    3. Engagement Analysis:
+       - Platform usage data (exact percentages)
+       - Content preference matrix
+       - Response rate metrics
+  expected_output: >
+    Deliverable must include:
+    1. Persona Documentation (standardized template)
+    2. Journey Map Visualization
+    3. Engagement Metrics Dashboard
+    4. Recommendation Matrix
+
+collect_market_research_task:
+  description: >
+    Conduct detailed market research for {project_description} in {customer_domain}:
+    1. Market Analysis:
+       - Market size and growth rate
+       - Segment analysis (minimum 3 segments)
+       - Competitive landscape (top 5 players)
+    2. Trend Analysis:
+       - 3 emerging trends with adoption rates
+       - 5 key market drivers
+       - 3 potential market barriers
+    3. Opportunity Assessment:
+       - Gap analysis
+       - Market entry barriers
+       - Growth potential metrics
+  expected_output: >
+    Structured report containing:
+    1. Market Overview (data-driven)
+    2. Trend Analysis Matrix
+    3. Opportunity Map
+    4. Strategic Recommendations
+
+analyze_competitor_meta_ads_task:
+  description: >
+    Analyze competitor advertising strategies for {project_description} in {customer_domain}:
+    1. Competitor Ad Analysis:
+       - Ad spend analysis (top 3 competitors)
+       - Creative approach comparison
+       - Call-to-action effectiveness
+    2. Performance Metrics:
+       - Engagement rates
+       - Conversion metrics
+       - ROI indicators
+    3. Best Practice Identification:
+       - Success patterns
+       - Failed approaches
+       - Innovation opportunities
+  expected_output: >
+    Comprehensive analysis including:
+    1. Competitor Ad Matrix
+    2. Performance Comparison
+    3. Strategic Recommendations
+    4. Implementation Guidelines
+
+define_brand_essence_task:
+  description: >
+    Extract and define brand essence for {project_description} in {customer_domain}:
+    1. Brand Definition:
+       - Core values (exactly 3)
+       - Brand personality traits (5)
+       - Positioning statement (25 words max)
+    2. Voice Guidelines:
+       - Tone characteristics
+       - Communication principles
+       - Key phrases
+    3. Visual Requirements:
+       - Color palette
+       - Typography
+       - Image style
+  expected_output: >
+    Brand guidelines document with:
+    1. Brand Strategy Overview
+    2. Voice and Tone Guide
+    3. Visual Standards
+    4. Implementation Rules
+
+develop_meta_ad_strategy_task:
+  description: >
+    Create comprehensive ad strategy for {project_description} in {customer_domain}:
+    1. Campaign Structure:
+       - 3 primary objectives
+       - 5 key performance indicators
+       - Budget allocation plan
+    2. Channel Strategy:
+       - Platform selection criteria
+       - Content distribution plan
+       - Engagement metrics
+    3. Implementation Plan:
+       - 90-day timeline
+       - Resource requirements
+       - Success metrics
+  expected_output: >
+    Strategic plan including:
+    1. Campaign Blueprint
+    2. Channel Strategy Matrix
+    3. Implementation Timeline
+    4. Budget Allocation
+
+create_ad_designs_task:
+  description: >
+    Develop ad creative assets for {project_description} in {customer_domain}:
+    1. Design Requirements:
+       - 3 campaign concepts
+       - 5 visual elements per concept
+       - 2 variations of each design
+    2. Technical Specifications:
+       - Platform-specific dimensions
+       - File format requirements
+       - Asset optimization guidelines
+    3. Brand Compliance:
+       - Visual hierarchy rules
+       - Brand element placement
+       - Color and typography standards
+  expected_output: >
+    Design package containing:
+    1. Creative Brief
+    2. Design Specifications
+    3. Asset Library
+    4. Implementation Guide
+
+craft_ad_copy_task:
+  description: >
+    Create compelling ad copy for {project_description} in {customer_domain}:
+    1. Copy Requirements:
+       - 5 headline variations
+       - 3 body copy versions
+       - 2 call-to-action options
+    2. Message Framework:
+       - Value propositions
+       - Emotional triggers
+       - Response mechanisms
+    3. Testing Strategy:
+       - A/B testing plan
+       - Performance metrics
+       - Optimization criteria
+  expected_output: >
+    Copy document including:
+    1. Copy Variations
+    2. Message Framework
+    3. Testing Plan
+    4. Performance Metrics
+
+review_ad_designs_task:
+  description: >
+    Review and optimize ad designs for {project_description} in {customer_domain}:
+    1. Quality Assessment:
+       - Brand compliance
+       - Technical specifications
+       - Platform requirements
+    2. Performance Review:
+       - Visual hierarchy
+       - Message clarity
+       - Call-to-action effectiveness
+    3. Optimization Recommendations:
+       - Design improvements
+       - Technical optimizations
+       - Implementation guidelines
+  expected_output: >
+    Review report containing:
+    1. Quality Assessment Matrix
+    2. Performance Analysis
+    3. Optimization Recommendations
+    4. Implementation Guide
+
+optimize_campaign_feedback_task:
+  description: >
+    Implement feedback loops for {project_description} in {customer_domain}:
+    1. Performance Analysis:
+       - 10 key metrics
+       - Conversion analysis
+       - ROI calculations
+    2. Optimization Strategy:
+       - A/B testing results
+       - Performance benchmarks
+       - Improvement areas
+    3. Implementation Plan:
+       - Action items
+       - Timeline
+       - Success metrics
+  expected_output: >
+    Optimization report including:
+    1. Performance Analysis
+    2. Optimization Strategy
+    3. Implementation Timeline
+    4. Success Metrics
+
+compile_final_strategy_task:
+  description: >
+    Create final strategy document for {project_description} in {customer_domain}:
+    1. Executive Summary:
+       - Key findings
+       - Strategic recommendations
+       - Implementation plan
+    2. Campaign Blueprint:
+       - Channel strategy
+       - Creative approach
+       - Performance metrics
+    3. Success Metrics:
+       - KPIs
+       - ROI projections
+       - Risk assessment
+  expected_output: >
+    Final strategy document containing:
+    1. Executive Summary
+    2. Strategic Framework
+    3. Implementation Plan
+    4. Success Metrics
+
